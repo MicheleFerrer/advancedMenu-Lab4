@@ -1,5 +1,8 @@
+// Michele Ferrer
+// Dr.Steinberg
+// COP3223-001
+// advancedMenu- Lab 4
 #include <stdio.h>
-
 
 int main()
 {
